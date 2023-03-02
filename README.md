@@ -1,4 +1,4 @@
-# According and intermediate - Frequently Asked Questions
+# Accordion and intermediate - Frequently Asked Questions
 
 Welcome !!!
 **Developed with HTML CSS JAVASCRIPT**
